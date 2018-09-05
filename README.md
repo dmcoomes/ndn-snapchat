@@ -1,5 +1,7 @@
 # ndn-snapchat
 
+\*\*\* This project has been moved to https://netwisdom.cs.memphis.edu/gitlab/dmcoomes/ndn-photo-app \*\*\*
+
 This is a photo and file sharing application built on Android and is inspired by Snapchat. The project's
 goals are to develop a completely decentralized application that runs over the Named Data Network (NDN), utilize
 a partial sync protocol, and utilize a Web-Of-Trust like model instead of the traditional NDN hierarchical model.
